@@ -1,8 +1,8 @@
 RUBY_VERSION="2.4.0"
 RAILS_VERSION="5.0.2"
 MYSQL_PASSWORD="123456"
-GIT_USER_NAME="mjunior"
-GIT_USER_EMAIL="mauriciojs.junior@gmail.com"
+GIT_USER_NAME="git"
+GIT_USER_EMAIL="email@git.com"
 NODE_VERSION="6"
 POSTGRES_USER="vagrant"
 
